@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" LC_NUMERIC="en_US" producer="main_bin" version="6.17.0" root="C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Proj">
+ <profile frame_rate_num="25" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="0" description="HD 1080i 25 fps" display_aspect_num="16" frame_rate_den="1" width="1920" height="1080" sample_aspect_den="1"/>
+ <producer title="Anonymous Submission" id="producer0" in="00:00:00.000" out="00:07:18.960">
+  <property name="length">10975</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Music/Bethoven/Beehoven_MonnLight_Presto_Agitato.mp3</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">191031</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.99r</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">10482519</property>
+  <property name="kdenlive:file_hash">c1057382e30bf3d5dea6a6254d7cf7e3</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:00:21.480">
+  <property name="length">538</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/IMG_20190408_182519.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">555</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">163395</property>
+  <property name="kdenlive:file_hash">309a9e6d02c248cbc1ad37d86fabfb10</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer2" in="00:00:00.000" out="00:09:59.960">
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/Title/T_Arc_3.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:10:00.000</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer3" in="00:00:00.000" out="00:00:21.840">
+  <property name="length">547</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/902e28dea21a3ed2fe6487e0f71e8d42.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">502</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">8</property>
+  <property name="kdenlive:file_size">256809</property>
+  <property name="kdenlive:file_hash">a36c8df1af94b4da52a9f5ff7e351796</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer4" in="00:00:00.000" out="00:00:13.480">
+  <property name="length">338</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/IMG-20170926-WA0004.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">555</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">49395</property>
+  <property name="kdenlive:file_hash">e699d3a7f3830ee9eca7f4062917e2d6</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer5" in="00:00:00.000" out="00:00:20.520">
+  <property name="length">514</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Alfred_Sisley_170.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1441</property>
+  <property name="meta.media.height">996</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">245521</property>
+  <property name="kdenlive:file_hash">38f50cc9be9f7fe5fb45a409846a08df</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:00:17.720">
+  <property name="length">444</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Alfred_Sisley_137.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">779</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">225962</property>
+  <property name="kdenlive:file_hash">128b2b4842576fb252f4ce1d64c6fd1b</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer7" in="00:00:00.000" out="00:00:13.120">
+  <property name="length">329</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/02A (2).JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">493</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">12</property>
+  <property name="kdenlive:file_size">172164</property>
+  <property name="kdenlive:file_hash">38babb8d8205f3afa2979c350283fc41</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:05:51.240">
+  <property name="length">8782</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Alfred_Sisley_173.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">2560</property>
+  <property name="meta.media.height">1758</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">13</property>
+  <property name="kdenlive:file_size">512307</property>
+  <property name="kdenlive:file_hash">11be34c5353a1ceda38829ea0baeaeda</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer9" in="00:00:00.000" out="00:00:14.360">
+  <property name="length">360</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Alfred_Sisley_77.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1552</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">14</property>
+  <property name="kdenlive:file_size">256453</property>
+  <property name="kdenlive:file_hash">bb435840d8f95cddde1259ddd87f7eae</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer10" in="00:00:00.000" out="00:00:12.480">
+  <property name="length">313</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/Untitled-11 (2).JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">631</property>
+  <property name="meta.media.height">682</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">15</property>
+  <property name="kdenlive:file_size">126544</property>
+  <property name="kdenlive:file_hash">84d2406c1349def5f275f057faca16c6</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer11" in="00:00:00.000" out="00:00:18.840">
+  <property name="length">472</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Vincent_van_Gogh_141.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1208</property>
+  <property name="meta.media.height">1024</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">16</property>
+  <property name="kdenlive:file_size">387314</property>
+  <property name="kdenlive:file_hash">45313f86ee9e4c57d9fa450e50382175</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer12" in="00:00:00.000" out="00:00:13.720">
+  <property name="length">344</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/DSC03620.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">987</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">17</property>
+  <property name="kdenlive:file_size">188198</property>
+  <property name="kdenlive:file_hash">2ce9aa04932f37611e3bbd7de89cdff7</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer13" in="00:00:00.000" out="00:00:15.000">
+  <property name="length">376</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Alfred_Sisley_106.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1802</property>
+  <property name="meta.media.height">1486</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">18</property>
+  <property name="kdenlive:file_size">777235</property>
+  <property name="kdenlive:file_hash">85951212627469f726b29c6aae8b61b9</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer14" in="00:00:00.000" out="00:00:08.480">
+  <property name="length">213</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20190318-WA0086 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">986</property>
+  <property name="meta.media.height">739</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">19</property>
+  <property name="kdenlive:file_size">180225</property>
+  <property name="kdenlive:file_hash">6225a270ad3585e18c2f787a7e1994d6</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer15" in="00:00:00.000" out="00:00:06.160">
+  <property name="length">155</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20190319-WA0025 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">493</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">20</property>
+  <property name="kdenlive:file_size">110240</property>
+  <property name="kdenlive:file_hash">784be307a31a989a7e41fe2e11b5edcb</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer16" in="00:00:00.000" out="00:00:07.480">
+  <property name="length">188</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20190318-WA0082.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1238</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">21</property>
+  <property name="kdenlive:file_size">147843</property>
+  <property name="kdenlive:file_hash">4f2116baadf1081a3748f960d8c7c521</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer17" in="00:00:00.000" out="00:00:08.320">
+  <property name="length">209</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG_8609_1.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">987</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">22</property>
+  <property name="kdenlive:file_size">142650</property>
+  <property name="kdenlive:file_hash">930c5976ff647a63691b94e60154aa47</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer18" in="00:00:00.000" out="00:00:06.800">
+  <property name="length">171</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20161215-WA0001.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1317</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">23</property>
+  <property name="kdenlive:file_size">108884</property>
+  <property name="kdenlive:file_hash">7f82c6ce21b74500daf94e7ebf4e5363</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer19" in="00:00:00.000" out="00:00:04.960">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20190409-WA0078.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1124</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">24</property>
+  <property name="kdenlive:file_size">186688</property>
+  <property name="kdenlive:file_hash">e6ae34f26af4d2ad116b6e89e35ca6d0</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer20" in="00:00:00.000" out="00:00:10.360">
+  <property name="length">260</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20190318-WA0006__2_-removebg.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">617</property>
+  <property name="meta.media.height">405</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">25</property>
+  <property name="kdenlive:file_size">488274</property>
+  <property name="kdenlive:file_hash">c649b5692692ee8085fdaf3e9b062ab2</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="producer21" in="00:00:00.000" out="00:00:21.880">
+  <property name="length">548</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/IMG-20190409-WA0081.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">599</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">26</property>
+  <property name="kdenlive:file_size">122956</property>
+  <property name="kdenlive:file_hash">34338a8ed6266dc11883ce5323514e5a</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer22" in="00:00:00.000" out="00:00:12.760">
+  <property name="length">320</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/20190704_102740.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1440</property>
+  <property name="meta.media.height">700</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">27</property>
+  <property name="kdenlive:file_size">347474</property>
+  <property name="kdenlive:file_hash">65a18225d5abc7fca2692ae6141d2df4</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer23" in="00:00:00.000" out="00:00:08.920">
+  <property name="length">224</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Sveta_I_1/1811_atl_1500 (1).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1458</property>
+  <property name="meta.media.height">943</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">28</property>
+  <property name="kdenlive:file_size">681873</property>
+  <property name="kdenlive:file_hash">cb6f4db96f8c994d92769f41e8fb094c</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer24" in="00:00:00.000" out="00:00:07.320">
+  <property name="length">184</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Sveta_I_1/1811_atl_2070.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">535</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">29</property>
+  <property name="kdenlive:file_size">144519</property>
+  <property name="kdenlive:file_hash">f1cc6b2175782023638ff088c5eb8df8</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer25" in="00:00:00.000" out="00:00:05.760">
+  <property name="length">145</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20180210-WA0000.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1316</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">30</property>
+  <property name="kdenlive:file_size">193134</property>
+  <property name="kdenlive:file_hash">354406db88bff851093cc3de972a5f65</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer26" in="00:00:00.000" out="00:00:08.720">
+  <property name="length">219</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20190409-WA0124.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">312</property>
+  <property name="meta.media.height">234</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">31</property>
+  <property name="kdenlive:file_size">50113</property>
+  <property name="kdenlive:file_hash">1b50ee1f890ae46558cc506d6d61695f</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer27" in="00:00:00.000" out="00:00:09.120">
+  <property name="length">229</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/IMG-20161215-WA0000.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">988</property>
+  <property name="meta.media.height">740</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">32</property>
+  <property name="kdenlive:file_size">111448</property>
+  <property name="kdenlive:file_hash">a006bc10574f420eb04e0c5fb5e33edc</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer28" in="00:00:00.000" out="00:00:04.960">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/808c6475bf2f35ca28423d0072bd986d.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1067</property>
+  <property name="meta.media.height">800</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">33</property>
+  <property name="kdenlive:file_size">240456</property>
+  <property name="kdenlive:file_hash">0cc16cbf315ef839930f37d1e9038bb0</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer29" in="00:00:00.000" out="00:00:08.200">
+  <property name="length">206</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/Arcady/20181119_172112.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1215</property>
+  <property name="meta.media.height">789</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">377643</property>
+  <property name="kdenlive:file_hash">862653545fb1d80b903407d143dcf590</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer30" in="00:00:00.000" out="00:00:16.880">
+  <property name="length">423</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/Meules-Derniers-Rayons-De-Soleil-large.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">800</property>
+  <property name="meta.media.height">629</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">125653</property>
+  <property name="kdenlive:file_hash">d31825e2eeb639923b4b3184ba40a59e</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer31" in="00:00:00.000" out="00:00:12.120">
+  <property name="length">304</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/754b2efb4f055468fc42cbd3900dea3bbacd3780e41a44abf1fe7a8e7ac5790e.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">700</property>
+  <property name="meta.media.height">500</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_size">177719</property>
+  <property name="kdenlive:file_hash">14111658ec1b8c380876148dcf1ccc56</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer32" in="00:00:00.000" out="00:00:08.200">
+  <property name="length">206</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/5.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">400</property>
+  <property name="meta.media.height">230</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">34</property>
+  <property name="kdenlive:file_size">54425</property>
+  <property name="kdenlive:file_hash">c367e03abb565613d14f4de0cc05e9ba</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer33" in="00:00:00.000" out="00:00:09.520">
+  <property name="length">239</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/b9c3d224d68f9a6dd16876012dd6e700.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">506</property>
+  <property name="meta.media.height">650</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">35</property>
+  <property name="kdenlive:file_size">61743</property>
+  <property name="kdenlive:file_hash">41ba09ccda8881c31e7571b08e0a0a42</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer34" in="00:00:00.000" out="00:00:04.960">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/c1480b49888565f000daa4ffb6632a01.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">480</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">36</property>
+  <property name="kdenlive:file_size">202776</property>
+  <property name="kdenlive:file_hash">0df40381a5ee561aad983cef2ae1daaf</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer35" in="00:00:00.000" out="00:00:06.800">
+  <property name="length">171</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/6a1ce3b23bd4ec0a606b7130672ba825.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">601</property>
+  <property name="meta.media.height">505</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">37</property>
+  <property name="kdenlive:file_size">43013</property>
+  <property name="kdenlive:file_hash">48fecdc6d26d7bb949948333e92f429e</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer36" in="00:00:00.000" out="00:00:11.400">
+  <property name="length">286</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/817.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">447</property>
+  <property name="meta.media.height">550</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">38</property>
+  <property name="kdenlive:file_size">58923</property>
+  <property name="kdenlive:file_hash">a0c22950c9585bf84fdb9c7f84f61d6a</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer37" in="00:00:00.000" out="00:00:14.480">
+  <property name="length">363</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/home-design.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">426</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">39</property>
+  <property name="kdenlive:file_size">84605</property>
+  <property name="kdenlive:file_hash">f9707fe7d6afa5327c2362e8b24a920a</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer38" in="00:00:00.000" out="00:00:12.920">
+  <property name="length">324</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/AB_1/img/img_2199_kopirovanie.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">850</property>
+  <property name="meta.media.height">567</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">40</property>
+  <property name="kdenlive:file_size">161033</property>
+  <property name="kdenlive:file_hash">a02e7e005299ecf5e0004f1d33182cd2</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <producer id="producer39" in="00:00:00.000" out="00:00:12.480">
+  <property name="length">313</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/SF_1/img/Vincent_van_Gogh_840.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">942</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:id">41</property>
+  <property name="kdenlive:file_size">193312</property>
+  <property name="kdenlive:file_hash">2452bbec731eb3a4555e2f5d3f07cf99</property>
+  <property name="kdenlive:folderid">-1</property>
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.activeTrack">3</property>
+  <property name="kdenlive:docproperties.audioTarget">4</property>
+  <property name="kdenlive:docproperties.decimalPoint">.</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1569315222241</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.externalproxyparams"/>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.groups">[
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">19.04.2</property>
+  <property name="kdenlive:docproperties.position">2384</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
+  <property name="kdenlive:docproperties.proxyextension">mkv</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf yadif,scale=960:-2 -qscale 3 -vcodec mjpeg -acodec pcm_s16le</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">0.98</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="xml_retain">1</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:07:18.960"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:21.480"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:09:59.960"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:00:21.840"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:12.440"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:20.520"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:17.720"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:11.120"/>
+  <entry producer="producer8" in="00:00:00.000" out="00:05:51.240"/>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:14.360"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:10.960"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:00:18.840"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:12.360"/>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:15.000"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:07.120"/>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer16" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer17" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer18" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer19" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer20" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer21" in="00:00:00.000" out="00:00:21.880"/>
+  <entry producer="producer22" in="00:00:00.000" out="00:00:12.760"/>
+  <entry producer="producer23" in="00:00:00.000" out="00:00:08.120"/>
+  <entry producer="producer24" in="00:00:00.000" out="00:00:07.320"/>
+  <entry producer="producer25" in="00:00:00.000" out="00:00:05.760"/>
+  <entry producer="producer26" in="00:00:00.000" out="00:00:07.000"/>
+  <entry producer="producer27" in="00:00:00.000" out="00:00:08.000"/>
+  <entry producer="producer28" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer29" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer30" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer31" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer32" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer33" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer34" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer35" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer36" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer37" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer38" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer39" in="00:00:00.000" out="00:00:04.960"/>
+ </playlist>
+ <producer id="black_track" in="00:00:00.000" out="00:23:05.640">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">56</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist0"/>
+  <track hide="video" producer="playlist1"/>
+ </tractor>
+ <playlist id="playlist2">
+  <entry producer="producer3" in="00:00:00.000" out="00:00:18.560">
+   <property name="kdenlive:id">8</property>
+   <filter id="filter0">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-480 -270 2880 1620 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:15.720">
+   <property name="kdenlive:id">11</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter1">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-384 28 2688 1512 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter2">
+    <property name="version">0.1</property>
+    <property name="mlt_service">frei0r.IIRblur</property>
+    <property name="kdenlive_id">frei0r.IIRblur</property>
+    <property name="Amount">00:00:00.000=0.417;00:00:15.720|=0.316</property>
+    <property name="Type">0.5</property>
+    <property name="Edge">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer9" in="00:00:00.000" out="00:00:13.120">
+   <property name="kdenlive:id">14</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter3">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-240 -135 2400 1350 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter4">
+    <property name="version">0.1</property>
+    <property name="mlt_service">frei0r.IIRblur</property>
+    <property name="kdenlive_id">frei0r.IIRblur</property>
+    <property name="Amount">00:00:00.000=0.505;00:00:13.120|=0.234</property>
+    <property name="Type">0.5</property>
+    <property name="Edge">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer39" in="00:00:00.000" out="00:00:12.480">
+   <property name="kdenlive:id">41</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter5">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-960 0 3840 2160 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer38" in="00:00:00.000" out="00:00:12.920">
+   <property name="kdenlive:id">40</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter6">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-288 -162 2496 1404 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:08.440">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter7">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-336 23 2592 1458 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer8" in="00:00:00.000" out="00:00:07.000">
+   <property name="kdenlive:id">13</property>
+   <filter id="filter8">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-237 -135 2400 1350 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer37" in="00:00:00.000" out="00:00:14.480">
+   <property name="kdenlive:id">39</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter9">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-768 -432 3456 1944 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer36" in="00:00:00.000" out="00:00:10.360">
+   <property name="kdenlive:id">38</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter10">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-960 -459 4032 2268 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer35" in="00:00:00.000" out="00:00:06.800">
+   <property name="kdenlive:id">37</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter11">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-1440 0 4800 2700 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer34" in="00:00:00.000" out="00:00:04.960">
+   <property name="kdenlive:id">36</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter12">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-528 -297 2976 1674 1</property>
+    <property name="rotation">00:00:00.000=7</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer33" in="00:00:00.000" out="00:00:05.760">
+   <property name="kdenlive:id">35</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter13">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-2640 -1485 7200 4050 1;00:00:03.440|=0 0 1920 1080 0.642857</property>
+    <property name="rotation">00:00:00.000=0;00:00:03.440|=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:26.360"/>
+  <entry producer="producer31" in="00:00:00.000" out="00:00:11.240">
+   <property name="kdenlive:id">6</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter14">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-384 0 2688 1512 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer30" in="00:00:00.000" out="00:00:16.880">
+   <property name="kdenlive:id">4</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter15">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-336 -216 2592 1458 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist3"/>
+ <tractor id="tractor1" in="00:00:00.000" out="00:03:05.600">
+  <property name="kdenlive:trackheight">56</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist2"/>
+  <track hide="audio" producer="playlist3"/>
+ </tractor>
+ <playlist id="playlist4">
+  <entry producer="producer1" in="00:00:00.000" out="00:00:18.560">
+   <property name="kdenlive:id">5</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter16">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=258 162 1344 756 0.92;00:00:18.560=-1638 -381 4832 2718 1</property>
+    <property name="rotation">00:00:00.000=-18;00:00:18.560=10</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter17">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.278;00:00:18.560|=0.566</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:15.760"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:13.120">
+   <property name="kdenlive:id">12</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter18">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=96 54 1728 972 1;00:00:13.120|=-1630 -1123 5280 2970 1</property>
+    <property name="rotation">00:00:00.000=12;00:00:13.120|=-1</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter19">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.306;00:00:13.120|=0.62</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:12.520"/>
+  <entry producer="producer12" in="00:00:00.000" out="00:00:13.720">
+   <property name="kdenlive:id">17</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter20">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=96 40 1536 864 1;00:00:13.720|=-3632 -633 8544 4806 1</property>
+    <property name="rotation">00:00:00.000=-10;00:00:13.720|=19</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter21">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.604;00:00:04.520|=0.858;00:00:13.720|=0.864</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:08.520"/>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:06.160">
+   <property name="kdenlive:id">20</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter22">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=43 0 1824 1026 1;00:00:06.160|=-1836 -672 5472 3078 1</property>
+    <property name="rotation">00:00:00.000=-14;00:00:06.160|=6</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:06.160"/>
+  <entry producer="producer17" in="00:00:00.000" out="00:00:08.320">
+   <property name="kdenlive:id">22</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter23">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=0 -64 1920 1080 1;00:00:08.320|=-770 -540 3072 1728 1</property>
+    <property name="rotation">00:00:00.000=16;00:00:08.320|=-2</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:10.400"/>
+  <entry producer="producer18" in="00:00:00.000" out="00:00:06.800">
+   <property name="kdenlive:id">23</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter24">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-77 0 1920 1080 1;00:00:06.800|=-1510 -180 4416 2484 1</property>
+    <property name="rotation">00:00:00.000=-16;00:00:06.800|=8</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter25">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.606;00:00:06.800|=0.762</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:05.000"/>
+  <entry producer="producer25" in="00:00:00.000" out="00:00:05.760">
+   <property name="kdenlive:id">30</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter26">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=30 0 1920 1080 1;00:00:05.760|=-490 -420 3072 1728 1</property>
+    <property name="rotation">00:00:00.000=-17;00:00:05.760|=7</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter27">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.5;00:00:05.760|=0.752</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:09.160"/>
+  <entry producer="producer23" in="00:00:00.000" out="00:00:08.920">
+   <property name="kdenlive:id">28</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter28">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-690 -510 2880 1620 1;00:00:08.880|=-8178 -4787 16416 9234 1</property>
+    <property name="rotation">00:00:00.000=-10;00:00:08.880|=9</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:08.240"/>
+  <entry producer="producer22" in="00:00:00.000" out="00:00:11.240">
+   <property name="kdenlive:id">27</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter29">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-93 0 1920 1080 1;00:00:11.240|=-640 -330 2880 1620 1</property>
+    <property name="rotation">00:00:00.000=-12;00:00:11.240|=18</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter30">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.48;00:00:11.240|=0.704</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:02:48.680">
+  <property name="kdenlive:trackheight">56</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="audio" producer="playlist5"/>
+ </tractor>
+ <producer title="Anonymous Submission" id="producer40" in="00:00:00.000" out="00:09:59.960">
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Ark_Ben_1/Title/T_Arc_3.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:10:00.000</property>
+  <property name="kdenlive:id">7</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist6">
+  <entry producer="producer40" in="00:00:00.000" out="00:00:18.560">
+   <property name="kdenlive:id">7</property>
+  </entry>
+  <blank length="00:00:02.320"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:13.400">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter31">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=144 197 1632 918 0.91;00:00:13.400|=-772 -320 3744 2106 1</property>
+    <property name="rotation">00:00:00.000=16;00:00:13.400|=-31</property>
+    <property name="compositing">13</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:13.160"/>
+  <entry producer="producer10" in="00:00:00.000" out="00:00:12.480">
+   <property name="kdenlive:id">15</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter32">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=242 188 1536 864 0.95;00:00:12.480=-2632 -340 6975 3923 1</property>
+    <property name="rotation">00:00:00.000=-17;00:00:12.480=10</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter33">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.702;00:00:12.480|=0.54</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:13.760"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:08.480">
+   <property name="kdenlive:id">19</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter34">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=192 108 1536 864 1;00:00:08.480|=-3366 -1980 6144 3456 1</property>
+    <property name="rotation">00:00:00.000=-12;00:00:08.480|=9</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter35">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.34;00:00:08.480|=1.038</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:06.200"/>
+  <entry producer="producer16" in="00:00:00.000" out="00:00:06.840">
+   <property name="kdenlive:id">21</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter36">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=0 0 1920 1080 1;00:00:06.840|=-470 -50 2688 1512 1</property>
+    <property name="rotation">00:00:00.000=-13;00:00:06.840|=5</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:07.640"/>
+  <entry producer="producer20" in="00:00:00.000" out="00:00:10.360">
+   <property name="kdenlive:id">25</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter37">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=528 297 864 486 1;00:00:10.360|=-5840 -2077 8352 4698 1</property>
+    <property name="rotation">00:00:00.000=-11;00:00:10.360|=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:06.840"/>
+  <entry producer="producer28" in="00:00:00.000" out="00:00:04.960">
+   <property name="kdenlive:id">33</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter38">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=96 164 1536 864 1;00:00:04.960|=-630 127 2784 1566 1</property>
+    <property name="rotation">00:00:00.000=6;00:00:04.960|=9</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:05.800"/>
+  <entry producer="producer27" in="00:00:00.000" out="00:00:09.120">
+   <property name="kdenlive:id">32</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter39">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=96 54 1728 972 1;00:00:09.120|=-4814 -1026 10560 5940 1</property>
+    <property name="rotation">00:00:00.000=13;00:00:09.120|=-10</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter40">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.5;00:00:09.120|=0.722</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:08.960"/>
+  <entry producer="producer29" in="00:00:00.000" out="00:00:08.200">
+   <property name="kdenlive:id">3</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter41">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-240 -200 2400 1350 1;00:00:08.200|=-3748 -1465 9696 5454 1</property>
+    <property name="rotation">00:00:00.000=20;00:00:08.200|=-10</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter42">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.346;00:00:08.200|=0.67</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:11.280"/>
+  <entry producer="producer21" in="00:00:00.000" out="00:00:16.880">
+   <property name="kdenlive:id">26</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter43">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=143 100 1728 972 1;00:00:16.880=-513 -87 2885 1623 1</property>
+    <property name="rotation">00:00:00.000=-29;00:00:16.880=6.51904</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter44">
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.contrast0r</property>
+    <property name="kdenlive_id">frei0r.contrast0r</property>
+    <property name="Contrast">00:00:00.000=0.394;00:00:16.880=0.663459</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist7"/>
+ <tractor id="tractor3" in="00:00:00.000" out="00:03:05.600">
+  <property name="kdenlive:trackheight">56</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist6"/>
+  <track hide="audio" producer="playlist7"/>
+ </tractor>
+ <producer title="Anonymous Submission" id="producer41" in="00:00:00.000" out="00:07:18.960">
+  <property name="length">10975</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Music/Bethoven/Beehoven_MonnLight_Presto_Agitato.mp3</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">191031</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.99r</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">10482519</property>
+  <property name="kdenlive:file_hash">c1057382e30bf3d5dea6a6254d7cf7e3</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist8">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="producer41" in="00:00:09.040" out="00:02:02.440">
+   <property name="kdenlive:id">2</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter45" in="00:01:59.440" out="00:02:02.480">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer41" in="00:06:03.720" out="00:07:15.880">
+   <property name="kdenlive:id">2</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist9">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor4" in="00:00:00.000" out="00:03:05.600">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">56</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist8"/>
+  <track hide="video" producer="playlist9"/>
+ </tractor>
+ <tractor title="Anonymous Submission" id="tractor5" global_feed="1" in="00:00:00.000" out="00:23:05.640">
+  <track producer="black_track"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <track producer="tractor4"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+  </transition>
+ </tractor>
+</mlt>
