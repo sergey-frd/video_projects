@@ -1,0 +1,2775 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" LC_NUMERIC="en_US" producer="main bin" version="6.11.0" root="C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Proj_A">
+ <profile frame_rate_num="25" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="0" description="HD 1080i 25 fps" display_aspect_num="16" frame_rate_den="1" width="1920" height="1080" sample_aspect_den="1"/>
+ <producer title="Anonymous Submission" id="1" in="0" out="1000">
+  <property name="length">00:00:40:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/See/Sea - 4006.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">50</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">50</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2495765</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2016-07-26T08:24:46.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">L-SMASH Video Handler</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">mp42mp41isomavc1</property>
+  <property name="meta.attr.creation_time.markup">2016-07-26T08:24:46.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="meta.media.frame_rate_num">50</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">12518329</property>
+  <property name="kdenlive:file_hash">d4ccf0f9acd638729eb2b8d6c3f69ce2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="2" in="0" out="12075">
+  <property name="length">00:08:03:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Mus/at_vance_-_bethoven_5-th_symphony_(zf.fm).mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.99r</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-1.#IND</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">494</property>
+  <property name="meta.media.1.codec.height">500</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.title.markup">Bethoven 5-th Symphony</property>
+  <property name="meta.attr.artist.markup">At Vance</property>
+  <property name="meta.attr.album.markup">Decade (CD2) Best</property>
+  <property name="meta.attr.album_artist.markup">At Vance</property>
+  <property name="meta.attr.comment.markup">ExactAudioCopy v0.99pb5</property>
+  <property name="meta.attr.genre.markup">Heavy Metal</property>
+  <property name="meta.attr.track.markup">16</property>
+  <property name="meta.attr.date.markup">2010</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">96</property>
+  <property name="meta.media.sample_aspect_den">96</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">19410816</property>
+  <property name="kdenlive:file_hash">5ea192447ff5fcdf0638d96a80f18a26</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="7" in="0" out="194">
+  <property name="length">195</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Title/T_Alex_1.kdenlivetitle</property>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">126</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">d41d8cd98f00b204e9800998ecf8427e</property>
+ </producer>
+ <producer id="123" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/1607_ZK_02580.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">172299</property>
+  <property name="kdenlive:file_hash">58a7efd92db255cd261365af930509ce</property>
+ </producer>
+ <producer id="186" in="0" out="280">
+  <property name="length">281</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG-20160429-WA0008.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">582</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">95447</property>
+  <property name="kdenlive:file_hash">fd229c271b7145d961bbd3321395cdd2</property>
+ </producer>
+ <producer id="188" in="0" out="148">
+  <property name="length">149</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/MVI_2493-9 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">312</property>
+  <property name="meta.media.height">466</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">65937</property>
+  <property name="kdenlive:file_hash">ee6a3b887d226c9c91ff1381273d1381</property>
+ </producer>
+ <producer id="189" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_6546.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">126153</property>
+  <property name="kdenlive:file_hash">a79f531e500bc1324dcabe513c2a3e77</property>
+ </producer>
+ <producer id="190" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/DOCU0002_4b.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">538</property>
+  <property name="meta.media.height">690</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">79960</property>
+  <property name="kdenlive:file_hash">024842911b89401d03423e0f6630beb8</property>
+ </producer>
+ <producer id="191" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0045 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">886</property>
+  <property name="meta.media.height">844</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">153451</property>
+  <property name="kdenlive:file_hash">f1410488f6a383a471a0b95bdf7d64b0</property>
+ </producer>
+ <producer id="192" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG-20180428-WA0059.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">587</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">92124</property>
+  <property name="kdenlive:file_hash">9a2a5fdf9938f9851b3d4621d4999ec3</property>
+ </producer>
+ <producer id="193" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20161107_173451.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">221005</property>
+  <property name="kdenlive:file_hash">d762967b5644169304a5fed83a1f58a2</property>
+ </producer>
+ <producer id="194" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20170317-WA0001.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">662</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">101884</property>
+  <property name="kdenlive:file_hash">77c89c159cdd70bf5f1637a9c3524d46</property>
+ </producer>
+ <producer id="195" in="0" out="170">
+  <property name="length">171</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20170429_172309.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">930</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">108623</property>
+  <property name="kdenlive:file_hash">e3368c81b49636af85f5a38587e49c7c</property>
+ </producer>
+ <producer id="196" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20180829-WA0008.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">124205</property>
+  <property name="kdenlive:file_hash">c214f69cfdba618ee834a01a9a6c3333</property>
+ </producer>
+ <producer id="197" in="0" out="157">
+  <property name="length">158</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Alex_army_1a.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1180</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">164171</property>
+  <property name="kdenlive:file_hash">9e983b264b764db5e9e7d81371302455</property>
+ </producer>
+ <producer id="198" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Image2c.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">179019</property>
+  <property name="kdenlive:file_hash">b0ffeb7a7a332792b6ef29ff526d909e</property>
+ </producer>
+ <producer id="199" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Image8b1.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1124</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">173752</property>
+  <property name="kdenlive:file_hash">ff660bb4ac49accfddbfa016345b510e</property>
+ </producer>
+ <producer id="200" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Image7a2.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1635</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">194404</property>
+  <property name="kdenlive:file_hash">64d37840ceebb05693610a80d7a44c29</property>
+ </producer>
+ <producer id="201" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Alex_army_1a.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1180</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">164171</property>
+  <property name="kdenlive:file_hash">9e983b264b764db5e9e7d81371302455</property>
+ </producer>
+ <producer id="202" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190407-WA0014.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">704</property>
+  <property name="meta.media.height">576</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">51222</property>
+  <property name="kdenlive:file_hash">590a56e56a3c6fa2977748c33c7f7008</property>
+ </producer>
+ <producer id="203" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0046 (3).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">908</property>
+  <property name="meta.media.height">700</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">182078</property>
+  <property name="kdenlive:file_hash">197bb717bc3d1050309b0befc2146504</property>
+ </producer>
+ <producer id="204" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0045 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">886</property>
+  <property name="meta.media.height">844</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">153451</property>
+  <property name="kdenlive:file_hash">f1410488f6a383a471a0b95bdf7d64b0</property>
+ </producer>
+ <producer id="205" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0044.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">769</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">62438</property>
+  <property name="kdenlive:file_hash">9ead452d0d53768786c03dd27ae407e0</property>
+ </producer>
+ <producer id="206" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0040.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">301220</property>
+  <property name="kdenlive:file_hash">2983e371951d5eb11822c43292703585</property>
+ </producer>
+ <producer id="207" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0048.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">165373</property>
+  <property name="kdenlive:file_hash">69345e4f43f2f5de88f5cf6cc09cf834</property>
+ </producer>
+ <producer id="208" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190228-WA0042 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">705</property>
+  <property name="meta.media.height">614</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">95092</property>
+  <property name="kdenlive:file_hash">bff33c20a870f8eaf01925ad9471c249</property>
+ </producer>
+ <producer id="209" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190201-WA0003.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">683</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">85889</property>
+  <property name="kdenlive:file_hash">ee7a41f70c525cab00e9f61946afff09</property>
+ </producer>
+ <producer id="210" in="0" out="225">
+  <property name="length">226</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20190208-WA0003 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1175</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">231999</property>
+  <property name="kdenlive:file_hash">8eec5f47c661f617dadf2437d02387b3</property>
+ </producer>
+ <producer id="211" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1195</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">437053</property>
+  <property name="kdenlive:file_hash">b6b5e308c8a76701b5990f015a89304d</property>
+ </producer>
+ <producer id="212" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">841</property>
+  <property name="meta.media.height">467</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">196992</property>
+  <property name="kdenlive:file_hash">244e56337f1aa12c62a51bf703c1610f</property>
+ </producer>
+ <producer id="213" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003 (3).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">786</property>
+  <property name="meta.media.height">260</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">124167</property>
+  <property name="kdenlive:file_hash">b7b2346fea68ea85fd40504f137ec17b</property>
+ </producer>
+ <producer id="214" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003 (4).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">474</property>
+  <property name="meta.media.height">217</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">81769</property>
+  <property name="kdenlive:file_hash">82db4d1fb019c420c50d9076273654b8</property>
+ </producer>
+ <producer id="215" in="0" out="179">
+  <property name="length">180</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003 (5).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">155</property>
+  <property name="meta.media.height">158</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">38426</property>
+  <property name="kdenlive:file_hash">c6c924d1ff40250e29393fba9ad3938c</property>
+ </producer>
+ <producer id="216" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003 (7).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">307</property>
+  <property name="meta.media.height">487</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">30284d05b492e73f95c035c9df3c0d00</property>
+  <property name="kdenlive:file_size">96338</property>
+ </producer>
+ <producer id="217" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/2/IMG-20190223-WA0003 (8).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">282</property>
+  <property name="meta.media.height">213</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">52739</property>
+  <property name="kdenlive:file_hash">32deda62c97a1c8a81234342d38b746a</property>
+ </producer>
+ <producer id="218" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_8743_2.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">553</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">41e2b766f41bd1cad23a932a81106dc2</property>
+  <property name="kdenlive:file_size">79697</property>
+ </producer>
+ <producer id="219" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/13112009080.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">94710</property>
+  <property name="kdenlive:file_hash">e32481677df4f7bd21ed3b56ed004341</property>
+ </producer>
+ <producer id="220" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_9208.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">109315</property>
+  <property name="kdenlive:file_hash">6b059678b357e2f1c2bce1f8be66205a</property>
+ </producer>
+ <producer id="221" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_8698_1.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">953</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">162788</property>
+  <property name="kdenlive:file_hash">10d2255d33ce46066213961983a10c27</property>
+ </producer>
+ <producer id="222" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/20190314_203725.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">497</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">36364</property>
+  <property name="kdenlive:file_hash">97bed2a01e634730e91ba4a9e179ae97</property>
+ </producer>
+ <producer id="223" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG-20180428-WA0068.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">492</property>
+  <property name="meta.media.height">544</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">55196</property>
+  <property name="kdenlive:file_hash">ffbb9897bf9e7a48fba41a3f9ded3028</property>
+ </producer>
+ <producer id="224" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_0354.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">277971</property>
+  <property name="kdenlive:file_hash">5041162a9775bb8a1e121b9300b655be</property>
+ </producer>
+ <producer id="225" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_0550.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">164497</property>
+  <property name="kdenlive:file_hash">4017ee9c5cfc38589067ea2b25d548b3</property>
+ </producer>
+ <producer id="226" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_0554.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">128466</property>
+  <property name="kdenlive:file_hash">89d4fc8f22c0d97cf7029189c33c6ec4</property>
+ </producer>
+ <producer id="227" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_0386.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">127785</property>
+  <property name="kdenlive:file_hash">283f0add19a0228cea0bf7d89fd461b9</property>
+ </producer>
+ <producer id="228" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG_0502.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">285542</property>
+  <property name="kdenlive:file_hash">1ce773496498197258efae6b75fd7edc</property>
+ </producer>
+ <producer id="229" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG-20180428-WA0076.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">316</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">46397</property>
+  <property name="kdenlive:file_hash">60708f85d4a9811e2378530e7ac7d703</property>
+ </producer>
+ <producer id="230" in="0" out="135">
+  <property name="length">136</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/1607_ZK_15580.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">6284b8a89bbaa4d2d1b026057cb31e60</property>
+  <property name="kdenlive:file_size">95251</property>
+ </producer>
+ <producer id="231" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1/IMG-20180428-WA0049.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">352</property>
+  <property name="meta.media.height">288</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">14307</property>
+  <property name="kdenlive:file_hash">f1de87b103835dae471a256e79f13acf</property>
+ </producer>
+ <producer id="232" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_0007.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">5ddaa99302c516925fde2c8d9f5ff315</property>
+  <property name="kdenlive:file_size">111664</property>
+ </producer>
+ <producer id="233" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_6597.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">169971</property>
+  <property name="kdenlive:file_hash">81ddb2890a7fe1a808e01f88a5f1c141</property>
+ </producer>
+ <producer id="234" in="0" out="516">
+  <property name="length">517</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_0561.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">179391</property>
+  <property name="kdenlive:file_hash">127e9c8858b0de960299ee8d6d29c0bd</property>
+ </producer>
+ <producer id="235" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_0475.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">312669</property>
+  <property name="kdenlive:file_hash">7bec6b9d0b22158c5d224c54ae635f20</property>
+ </producer>
+ <producer id="236" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/PR00001077825.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">500189</property>
+  <property name="kdenlive:file_hash">476e8f462da6624f19253172239b2e76</property>
+ </producer>
+ <producer id="237" in="0" out="450">
+  <property name="length">451</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20171122-WA0024 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">717</property>
+  <property name="meta.media.height">659</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">c4e76480a336d4612a5c0c8678bd60e7</property>
+  <property name="kdenlive:file_size">143809</property>
+ </producer>
+ <producer id="238" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_6597.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">169971</property>
+  <property name="kdenlive:file_hash">81ddb2890a7fe1a808e01f88a5f1c141</property>
+ </producer>
+ <producer id="239" in="0" out="452">
+  <property name="length">453</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_20101122_182822.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">662</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">a6849288d732f8888875a8ee6883dc22</property>
+  <property name="kdenlive:file_size">83824</property>
+ </producer>
+ <producer id="240" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20160602-WA0021.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">794</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">36b2e6fd9f7183509cf03adf8e208ca8</property>
+  <property name="kdenlive:file_size">94819</property>
+ </producer>
+ <producer id="241" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_03710.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">250798</property>
+  <property name="kdenlive:file_hash">dd90646a3728a5540a169f0881d71239</property>
+ </producer>
+ <producer id="242" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20161004_114043.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">352467</property>
+  <property name="kdenlive:file_hash">b54347c54eb714e0e0e6b1788733974d</property>
+ </producer>
+ <producer id="243" in="0" out="696">
+  <property name="length">697</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20161004_113918.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">497</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">199371</property>
+  <property name="kdenlive:file_hash">0b5ad76339f7d443df9308beda2d06f2</property>
+ </producer>
+ <producer id="244" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20161004_115842.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">224795</property>
+  <property name="kdenlive:file_hash">e98df73c0e4bf30b409f3559cfe37f2a</property>
+ </producer>
+ <producer id="245" in="0" out="750">
+  <property name="length">751</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20161004_121444.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">252693</property>
+  <property name="kdenlive:file_hash">eb977a2fac59fd41995f99dbb8f03427</property>
+ </producer>
+ <producer id="246" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20161107_173451.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">221005</property>
+  <property name="kdenlive:file_hash">d762967b5644169304a5fed83a1f58a2</property>
+ </producer>
+ <producer id="247" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20170427-WA0002.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1232</property>
+  <property name="meta.media.height">816</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">9c04f8f2c27b3baa5af54509d364e1c9</property>
+  <property name="kdenlive:file_size">84893</property>
+ </producer>
+ <producer id="248" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20170429_172309.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">930</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">108623</property>
+  <property name="kdenlive:file_hash">e3368c81b49636af85f5a38587e49c7c</property>
+ </producer>
+ <producer id="249" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20171117_214433.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">497</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">69061</property>
+  <property name="kdenlive:file_hash">638c89cd2c78bb422c59801be500769e</property>
+ </producer>
+ <producer id="250" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20180207_164245 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">497</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">192373</property>
+  <property name="kdenlive:file_hash">e642b2b995981d6d4ea597739cba1334</property>
+ </producer>
+ <producer id="251" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_8690_1.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1396</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">213956</property>
+  <property name="kdenlive:file_hash">6c351c0705d56d117feef6f6ff2a3cae</property>
+ </producer>
+ <producer id="252" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_8691_1.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1272</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">205820</property>
+  <property name="kdenlive:file_hash">094edb882934c95931be34e4e0827a22</property>
+ </producer>
+ <producer id="253" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_8695_2.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1519</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">274918</property>
+  <property name="kdenlive:file_hash">5075220e70ab67d4838e15901f109018</property>
+ </producer>
+ <producer id="254" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_1060.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">173548</property>
+  <property name="kdenlive:file_hash">914e0817bee5eac9c19793ec1ce69741</property>
+ </producer>
+ <producer id="255" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_1077.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">c23400e7772f7d24b263a4ea33f09283</property>
+  <property name="kdenlive:file_size">121408</property>
+ </producer>
+ <producer id="256" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG_0007.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">111664</property>
+  <property name="kdenlive:file_hash">5ddaa99302c516925fde2c8d9f5ff315</property>
+ </producer>
+ <producer id="257" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Alex_Ura_0212_6c.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1009</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">102816</property>
+  <property name="kdenlive:file_hash">2abf9c73c5d34a5d877ae5827dd963ca</property>
+ </producer>
+ <producer id="258" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/SmartSelectImage_2015-11-18-21-02-54.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">943</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">772131</property>
+  <property name="kdenlive:file_hash">663ee7f2ccc1d72a9479def9209fbcc8</property>
+ </producer>
+ <producer id="259" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20160723-WA0009.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">187247</property>
+  <property name="kdenlive:file_hash">72fda2f37c5fd71033dc865a49cb6b91</property>
+ </producer>
+ <producer id="260" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_13760.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">262459</property>
+  <property name="kdenlive:file_hash">215737e17edfdfcdc56404e5d4d12577</property>
+ </producer>
+ <producer id="261" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_13990.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">101419</property>
+  <property name="kdenlive:file_hash">d92e167dc0a7bbd3908ddede196332b9</property>
+ </producer>
+ <producer id="262" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_15320.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1325</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">239689</property>
+  <property name="kdenlive:file_hash">d545cb5829fc55fd62a08d9c5e3c0568</property>
+ </producer>
+ <producer id="263" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_15400.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">145886</property>
+  <property name="kdenlive:file_hash">e2432ea79c914fb77cfad65ee8b42954</property>
+ </producer>
+ <producer id="264" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_15460.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1325</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">169670</property>
+  <property name="kdenlive:file_hash">ca40cbf9c5719456368bc4acf79cd7b3</property>
+ </producer>
+ <producer id="265" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_15520.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1325</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">154215</property>
+  <property name="kdenlive:file_hash">5eeed30fd546967004b29116d8be60e9</property>
+ </producer>
+ <producer id="266" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20160803_140754.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">284302</property>
+  <property name="kdenlive:file_hash">9eb05ef35a94a96dec869803ff4d989a</property>
+ </producer>
+ <producer id="267" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/20160803_141121.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1570</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">281116</property>
+  <property name="kdenlive:file_hash">ba206c9a2c0e62a6821c858d0357cd3e</property>
+ </producer>
+ <producer id="268" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/IMG-20160803-WA0007.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">172238</property>
+  <property name="kdenlive:file_hash">a3b318bfae08a27803a66a2f1f5585d2</property>
+ </producer>
+ <producer id="269" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/1607_ZK_16990.jpeg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_hash">b4b076bb427f3f0141759372d5d38067</property>
+  <property name="kdenlive:file_size">189697</property>
+ </producer>
+ <producer title="Anonymous Submission" id="270" in="0" out="751">
+  <property name="length">00:00:30:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/See/Pexels Videos 4708.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">59.9401</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">59.9401</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">4999075</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2017-10-09T04:12:10.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">L-SMASH Video Handler</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">256000</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2017-10-09T04:12:10.000000Z</property>
+  <property name="meta.attr.1.stream.handler_name.markup">L-SMASH Audio Handler</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">mp42mp41isomavc1</property>
+  <property name="meta.attr.creation_time.markup">2017-10-09T04:12:10.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">60000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">19790715</property>
+  <property name="kdenlive:file_hash">41098cddf7307930cf062df8f1d29240</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="271" in="0" out="145">
+  <property name="length">146</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Mikki/IMG-20180203-WA0011.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">84612</property>
+  <property name="kdenlive:file_hash">fb71fa7174ef6ac34d218f9ffe73278b</property>
+ </producer>
+ <producer id="272" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/150203_90.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">704</property>
+  <property name="meta.media.height">576</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">117002</property>
+  <property name="kdenlive:file_hash">f83b7225567649bd4c6d9758dee74f30</property>
+ </producer>
+ <producer id="273" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Image2c.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">179019</property>
+  <property name="kdenlive:file_hash">b0ffeb7a7a332792b6ef29ff526d909e</property>
+ </producer>
+ <producer id="274" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Image7a2.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1635</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">194404</property>
+  <property name="kdenlive:file_hash">64d37840ceebb05693610a80d7a44c29</property>
+ </producer>
+ <producer id="275" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Image7d.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1202</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">166722</property>
+  <property name="kdenlive:file_hash">031c732fbe3a8658e586c5128a70742d</property>
+ </producer>
+ <producer id="276" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Image8b1.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1124</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">173752</property>
+  <property name="kdenlive:file_hash">ff660bb4ac49accfddbfa016345b510e</property>
+ </producer>
+ <producer id="277" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Image8c9.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1347</property>
+  <property name="meta.media.height">827</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">177909</property>
+  <property name="kdenlive:file_hash">9b6188438a6740e61d74db6ffb7714bc</property>
+ </producer>
+ <producer id="278" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/IMG_0007.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">111664</property>
+  <property name="kdenlive:file_hash">5ddaa99302c516925fde2c8d9f5ff315</property>
+ </producer>
+ <producer id="279" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/150302E_1497.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">704</property>
+  <property name="meta.media.height">576</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">86115</property>
+  <property name="kdenlive:file_hash">50cacc6740d6c634f3336147c3615356</property>
+ </producer>
+ <producer id="280" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/150302H_117.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">704</property>
+  <property name="meta.media.height">576</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">77736</property>
+  <property name="kdenlive:file_hash">ce3d93233e511531a5e382f90c063f6e</property>
+ </producer>
+ <producer id="281" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/150302M_1121.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">704</property>
+  <property name="meta.media.height">576</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">97584</property>
+  <property name="kdenlive:file_hash">de061b4f095d6810279255ff6f1bf05f</property>
+ </producer>
+ <producer id="282" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/150302N_897.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">704</property>
+  <property name="meta.media.height">576</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">105187</property>
+  <property name="kdenlive:file_hash">1f3a7c768d1d0fbd3bfd76ccc23aea9a</property>
+ </producer>
+ <producer id="283" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Alex_army_1a.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1180</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">164171</property>
+  <property name="kdenlive:file_hash">9e983b264b764db5e9e7d81371302455</property>
+ </producer>
+ <producer id="284" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Image8b1 (1).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1124</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">249106</property>
+  <property name="kdenlive:file_hash">0885006765012ac9564cbf147bb4b3cc</property>
+ </producer>
+ <producer id="285" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/IMG-20190201-WA0002.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">662</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">90222</property>
+  <property name="kdenlive:file_hash">dfaf1af684c5badcb44836c4e9daac64</property>
+ </producer>
+ <producer id="286" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Untitled-24.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1328</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">250673</property>
+  <property name="kdenlive:file_hash">6e2b6ec1aa16821f22b4c3a3d0b8db60</property>
+ </producer>
+ <producer id="287" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Army/Untitled-26.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1329</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">146751</property>
+  <property name="kdenlive:file_hash">f676cd5a3938a4ac8ed2338b54d77903</property>
+ </producer>
+ <producer id="288" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/1607_ZK_15400.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1324</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">145886</property>
+  <property name="kdenlive:file_hash">e2432ea79c914fb77cfad65ee8b42954</property>
+ </producer>
+ <producer id="289" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/20170429_172309.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">930</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">108623</property>
+  <property name="kdenlive:file_hash">e3368c81b49636af85f5a38587e49c7c</property>
+ </producer>
+ <producer id="290" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/20171117_214433.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">497</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">69061</property>
+  <property name="kdenlive:file_hash">638c89cd2c78bb422c59801be500769e</property>
+ </producer>
+ <producer id="291" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/20180207_164245 (2).jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">497</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">192373</property>
+  <property name="kdenlive:file_hash">e642b2b995981d6d4ea597739cba1334</property>
+ </producer>
+ <producer id="292" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/DOCU0002_4b.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">538</property>
+  <property name="meta.media.height">690</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">79960</property>
+  <property name="kdenlive:file_hash">024842911b89401d03423e0f6630beb8</property>
+ </producer>
+ <producer id="293" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20160723-WA0009.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">187247</property>
+  <property name="kdenlive:file_hash">72fda2f37c5fd71033dc865a49cb6b91</property>
+ </producer>
+ <producer id="294" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20160803-WA0007.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">172238</property>
+  <property name="kdenlive:file_hash">a3b318bfae08a27803a66a2f1f5585d2</property>
+ </producer>
+ <producer id="295" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20170317-WA0001.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">662</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">101884</property>
+  <property name="kdenlive:file_hash">77c89c159cdd70bf5f1637a9c3524d46</property>
+ </producer>
+ <producer id="296" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20170427-WA0002.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1232</property>
+  <property name="meta.media.height">816</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">84893</property>
+  <property name="kdenlive:file_hash">9c04f8f2c27b3baa5af54509d364e1c9</property>
+ </producer>
+ <producer id="297" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20170912-WA0004.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">208010</property>
+  <property name="kdenlive:file_hash">aeb0df1c98a8cba5ff8ebc5c0e56a320</property>
+ </producer>
+ <producer id="298" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20180228-WA0011.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">672</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">125789</property>
+  <property name="kdenlive:file_hash">172f2d2241ce6b05b2209c3abe5a2d1e</property>
+ </producer>
+ <producer id="299" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20180810-WA0002.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">189495</property>
+  <property name="kdenlive:file_hash">63e4eba9387cb8f32d39530b9099a540</property>
+ </producer>
+ <producer id="300" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20180829-WA0008.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">124205</property>
+  <property name="kdenlive:file_hash">c214f69cfdba618ee834a01a9a6c3333</property>
+ </producer>
+ <producer id="301" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20181217-WA0000.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1177</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">214937</property>
+  <property name="kdenlive:file_hash">a30fa7b92bc21d58a8ae59f806b6e8d3</property>
+ </producer>
+ <producer id="302" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20181226-WA0013.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1182</property>
+  <property name="meta.media.height">883</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">178644</property>
+  <property name="kdenlive:file_hash">7a54e7c24e9a115c007268f80a10aa82</property>
+ </producer>
+ <producer id="303" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20181226-WA0031.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">768</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">77798</property>
+  <property name="kdenlive:file_hash">eebdbbea5e038a938900fccec4b0a2f3</property>
+ </producer>
+ <producer id="304" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20190309-WA0005.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">769</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">66233</property>
+  <property name="kdenlive:file_hash">92dee266f973f0bfa13cacebf40b8a29</property>
+ </producer>
+ <producer id="305" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20190309-WA0006.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">769</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">67312</property>
+  <property name="kdenlive:file_hash">e9ce2e485f5d5680fc80935ab96c8a4f</property>
+ </producer>
+ <producer id="306" in="0" out="124">
+  <property name="length">125</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Happy_End/IMG-20190309-WA0008.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">769</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:duration">125</property>
+  <property name="kdenlive:file_size">72499</property>
+  <property name="kdenlive:file_hash">db014347231070ea47895d5d18580e32</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:folder.-1.1">See</property>
+  <property name="kdenlive:docproperties.audiotargettrack">2</property>
+  <property name="kdenlive:docproperties.decimalPoint">.</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks"/>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1556090353573</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">18.08.2</property>
+  <property name="kdenlive:docproperties.position">0</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
+  <property name="kdenlive:docproperties.proxyextension">mkv</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf yadif,scale=960:-2 -qscale 3 -vcodec mjpeg -acodec pcm_s16le</property>
+  <property name="kdenlive:docproperties.version">0.96</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videotargettrack">3</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">3</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups"/>
+  <property name="kdenlive:folder.-1.2">Mus</property>
+  <property name="kdenlive:folder.-1.3">Title</property>
+  <property name="kdenlive:folder.-1.4">1</property>
+  <property name="kdenlive:folder.-1.5">2</property>
+  <property name="kdenlive:folder.-1.6">Folder</property>
+  <property name="kdenlive:folder.-1.7">Folder</property>
+  <property name="kdenlive:folder.-1.8">Folder</property>
+  <property name="kdenlive:folder.-1.9">Folder</property>
+  <property name="xml_retain">1</property>
+  <entry producer="1" in="0" out="1000"/>
+  <entry producer="2" in="0" out="12075"/>
+  <entry producer="7" in="0" out="125"/>
+  <entry producer="123" in="0" out="124"/>
+  <entry producer="186" in="0" out="124"/>
+  <entry producer="188" in="0" out="124"/>
+  <entry producer="189" in="0" out="124"/>
+  <entry producer="190" in="0" out="124"/>
+  <entry producer="191" in="0" out="124"/>
+  <entry producer="192" in="0" out="124"/>
+  <entry producer="193" in="0" out="124"/>
+  <entry producer="194" in="0" out="124"/>
+  <entry producer="195" in="0" out="124"/>
+  <entry producer="196" in="0" out="124"/>
+  <entry producer="197" in="0" out="124"/>
+  <entry producer="198" in="0" out="124"/>
+  <entry producer="199" in="0" out="124"/>
+  <entry producer="200" in="0" out="124"/>
+  <entry producer="201" in="0" out="124"/>
+  <entry producer="202" in="0" out="124"/>
+  <entry producer="203" in="0" out="124"/>
+  <entry producer="204" in="0" out="124"/>
+  <entry producer="205" in="0" out="124"/>
+  <entry producer="206" in="0" out="124"/>
+  <entry producer="207" in="0" out="124"/>
+  <entry producer="208" in="0" out="124"/>
+  <entry producer="209" in="0" out="124"/>
+  <entry producer="210" in="0" out="124"/>
+  <entry producer="211" in="0" out="124"/>
+  <entry producer="212" in="0" out="124"/>
+  <entry producer="213" in="0" out="124"/>
+  <entry producer="214" in="0" out="124"/>
+  <entry producer="215" in="0" out="124"/>
+  <entry producer="216" in="0" out="124"/>
+  <entry producer="217" in="0" out="124"/>
+  <entry producer="218" in="0" out="124"/>
+  <entry producer="219" in="0" out="124"/>
+  <entry producer="220" in="0" out="124"/>
+  <entry producer="221" in="0" out="124"/>
+  <entry producer="222" in="0" out="124"/>
+  <entry producer="223" in="0" out="124"/>
+  <entry producer="224" in="0" out="124"/>
+  <entry producer="225" in="0" out="124"/>
+  <entry producer="226" in="0" out="124"/>
+  <entry producer="227" in="0" out="124"/>
+  <entry producer="228" in="0" out="124"/>
+  <entry producer="229" in="0" out="124"/>
+  <entry producer="230" in="0" out="124"/>
+  <entry producer="231" in="0" out="124"/>
+  <entry producer="232" in="0" out="124"/>
+  <entry producer="233" in="0" out="124"/>
+  <entry producer="234" in="0" out="124"/>
+  <entry producer="235" in="0" out="124"/>
+  <entry producer="236" in="0" out="124"/>
+  <entry producer="237" in="0" out="124"/>
+  <entry producer="238" in="0" out="124"/>
+  <entry producer="239" in="0" out="124"/>
+  <entry producer="240" in="0" out="124"/>
+  <entry producer="241" in="0" out="124"/>
+  <entry producer="242" in="0" out="124"/>
+  <entry producer="243" in="0" out="124"/>
+  <entry producer="244" in="0" out="124"/>
+  <entry producer="245" in="0" out="124"/>
+  <entry producer="246" in="0" out="124"/>
+  <entry producer="247" in="0" out="124"/>
+  <entry producer="248" in="0" out="124"/>
+  <entry producer="249" in="0" out="124"/>
+  <entry producer="250" in="0" out="124"/>
+  <entry producer="251" in="0" out="124"/>
+  <entry producer="252" in="0" out="124"/>
+  <entry producer="253" in="0" out="124"/>
+  <entry producer="254" in="0" out="124"/>
+  <entry producer="255" in="0" out="124"/>
+  <entry producer="256" in="0" out="124"/>
+  <entry producer="257" in="0" out="124"/>
+  <entry producer="258" in="0" out="124"/>
+  <entry producer="259" in="0" out="124"/>
+  <entry producer="260" in="0" out="124"/>
+  <entry producer="261" in="0" out="124"/>
+  <entry producer="262" in="0" out="124"/>
+  <entry producer="263" in="0" out="124"/>
+  <entry producer="264" in="0" out="124"/>
+  <entry producer="265" in="0" out="124"/>
+  <entry producer="266" in="0" out="124"/>
+  <entry producer="267" in="0" out="124"/>
+  <entry producer="268" in="0" out="124"/>
+  <entry producer="269" in="0" out="124"/>
+  <entry producer="270" in="0" out="751"/>
+  <entry producer="271" in="0" out="124"/>
+  <entry producer="272" in="0" out="124"/>
+  <entry producer="273" in="0" out="124"/>
+  <entry producer="274" in="0" out="124"/>
+  <entry producer="275" in="0" out="124"/>
+  <entry producer="276" in="0" out="124"/>
+  <entry producer="277" in="0" out="124"/>
+  <entry producer="278" in="0" out="124"/>
+  <entry producer="279" in="0" out="124"/>
+  <entry producer="280" in="0" out="124"/>
+  <entry producer="281" in="0" out="124"/>
+  <entry producer="282" in="0" out="124"/>
+  <entry producer="283" in="0" out="124"/>
+  <entry producer="284" in="0" out="124"/>
+  <entry producer="285" in="0" out="124"/>
+  <entry producer="286" in="0" out="124"/>
+  <entry producer="287" in="0" out="124"/>
+  <entry producer="288" in="0" out="124"/>
+  <entry producer="289" in="0" out="124"/>
+  <entry producer="290" in="0" out="124"/>
+  <entry producer="291" in="0" out="124"/>
+  <entry producer="292" in="0" out="124"/>
+  <entry producer="293" in="0" out="124"/>
+  <entry producer="294" in="0" out="124"/>
+  <entry producer="295" in="0" out="124"/>
+  <entry producer="296" in="0" out="124"/>
+  <entry producer="297" in="0" out="124"/>
+  <entry producer="298" in="0" out="124"/>
+  <entry producer="299" in="0" out="124"/>
+  <entry producer="300" in="0" out="124"/>
+  <entry producer="301" in="0" out="124"/>
+  <entry producer="302" in="0" out="124"/>
+  <entry producer="303" in="0" out="124"/>
+  <entry producer="304" in="0" out="124"/>
+  <entry producer="305" in="0" out="124"/>
+  <entry producer="306" in="0" out="124"/>
+ </playlist>
+ <producer id="black" in="0" out="500">
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry producer="black" in="0" out="5675"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:track_name">Audio 2</property>
+ </playlist>
+ <producer title="Anonymous Submission" id="2_playlist2" in="0" out="12075">
+  <property name="length">00:08:03:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/Mus/at_vance_-_bethoven_5-th_symphony_(zf.fm).mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">2</property>
+  <property name="kdenlive:file_size">19410816</property>
+  <property name="kdenlive:file_hash">5ea192447ff5fcdf0638d96a80f18a26</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">320000</property>
+  <property name="meta.attr.0.stream.encoder.markup">LAME3.99r</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-1.#IND</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">494</property>
+  <property name="meta.media.1.codec.height">500</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.title.markup">Bethoven 5-th Symphony</property>
+  <property name="meta.attr.artist.markup">At Vance</property>
+  <property name="meta.attr.album.markup">Decade (CD2) Best</property>
+  <property name="meta.attr.album_artist.markup">At Vance</property>
+  <property name="meta.attr.comment.markup">ExactAudioCopy v0.99pb5</property>
+  <property name="meta.attr.genre.markup">Heavy Metal</property>
+  <property name="meta.attr.track.markup">16</property>
+  <property name="meta.attr.date.markup">2010</property>
+  <property name="meta.media.sample_aspect_num">96</property>
+  <property name="meta.media.sample_aspect_den">96</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:track_name">Audio 1</property>
+  <entry producer="2_playlist2" in="0" out="2331"/>
+ </playlist>
+ <producer title="Anonymous Submission" id="1_playlist3" in="0" out="1000">
+  <property name="length">00:00:40:01</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/See/Sea - 4006.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">12518329</property>
+  <property name="kdenlive:file_hash">d4ccf0f9acd638729eb2b8d6c3f69ce2</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">50</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">50</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2495765</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2016-07-26T08:24:46.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">L-SMASH Video Handler</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">mp42mp41isomavc1</property>
+  <property name="meta.attr.creation_time.markup">2016-07-26T08:24:46.000000Z</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">50</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer title="Anonymous Submission" id="270_playlist3" in="0" out="751">
+  <property name="length">00:00:30:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">C:/Users/SERGEI/Pictures/Photo/2019/Alex_1/See/Pexels Videos 4708.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">19790715</property>
+  <property name="kdenlive:file_hash">41098cddf7307930cf062df8f1d29240</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">59.9401</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">1080</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">59.9401</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">4999075</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2017-10-09T04:12:10.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">L-SMASH Video Handler</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">256000</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2017-10-09T04:12:10.000000Z</property>
+  <property name="meta.attr.1.stream.handler_name.markup">L-SMASH Audio Handler</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">mp42mp41isomavc1</property>
+  <property name="meta.attr.creation_time.markup">2017-10-09T04:12:10.000000Z</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">60000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 1</property>
+  <entry producer="1_playlist3" in="0" out="620"/>
+  <entry producer="270_playlist3" in="0" out="751"/>
+  <entry producer="270_playlist3" in="0" out="751"/>
+  <blank length="19"/>
+  <entry producer="270_playlist3" in="0" out="307"/>
+ </playlist>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <entry producer="7" in="0" out="193"/>
+  <blank length="8"/>
+  <entry producer="222" in="0" out="7"/>
+  <blank length="7"/>
+  <entry producer="189" in="10" out="17"/>
+  <blank length="5"/>
+  <entry producer="219" in="4" out="9"/>
+  <blank length="16"/>
+  <entry producer="221" in="2" out="9"/>
+  <blank length="6"/>
+  <entry producer="201" in="0" out="6"/>
+  <blank length="3"/>
+  <entry producer="277" in="7" out="11"/>
+  <blank length="6"/>
+  <entry producer="199" in="0" out="5"/>
+  <blank length="2"/>
+  <entry producer="282" in="114" out="120"/>
+  <blank length="1"/>
+  <entry producer="279" in="20" out="22"/>
+  <blank length="3"/>
+  <entry producer="227" in="53" out="63"/>
+  <blank length="1"/>
+  <entry producer="228" in="0" out="3"/>
+  <blank length="3"/>
+  <entry producer="226" in="56" out="58"/>
+  <blank length="24"/>
+  <entry producer="231" in="5" out="27"/>
+  <blank length="181"/>
+  <entry producer="271" in="35" out="144"/>
+  <blank length="47"/>
+  <entry producer="202" in="0" out="14"/>
+  <blank length="13"/>
+  <entry producer="206" in="23" out="29"/>
+  <blank length="21"/>
+  <entry producer="203" in="0" out="17"/>
+  <blank length="50"/>
+  <entry producer="210" in="0" out="40"/>
+  <blank length="137"/>
+  <entry producer="194" in="0" out="81"/>
+  <blank length="86"/>
+  <entry producer="195" in="0" out="81"/>
+  <blank length="534"/>
+  <entry producer="212" in="0" out="124"/>
+  <blank length="79"/>
+  <entry producer="214" in="0" out="124"/>
+  <blank length="154"/>
+  <entry producer="216" in="0" out="28"/>
+  <blank length="1152"/>
+  <entry producer="239" in="312" out="409"/>
+  <blank length="29"/>
+  <entry producer="247" in="0" out="83"/>
+  <blank length="63"/>
+  <entry producer="242" in="0" out="87"/>
+  <blank length="62"/>
+  <entry producer="244" in="0" out="89"/>
+  <blank length="72"/>
+  <entry producer="246" in="0" out="58"/>
+  <blank length="27"/>
+  <entry producer="249" in="0" out="65"/>
+  <blank length="24"/>
+  <entry producer="251" in="0" out="43"/>
+  <blank length="22"/>
+  <entry producer="253" in="0" out="33"/>
+  <blank length="14"/>
+  <entry producer="255" in="0" out="45"/>
+  <blank length="20"/>
+  <entry producer="257" in="0" out="35"/>
+  <blank length="28"/>
+  <entry producer="259" in="0" out="23"/>
+  <blank length="28"/>
+  <entry producer="261" in="0" out="23"/>
+  <blank length="553"/>
+  <entry producer="241" in="0" out="91"/>
+  <blank length="119"/>
+  <entry producer="238" in="0" out="124"/>
+  <blank length="113"/>
+  <entry producer="232" in="0" out="124"/>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 3</property>
+  <blank length="126"/>
+  <entry producer="186" in="97" out="164"/>
+  <entry producer="223" in="0" out="7"/>
+  <blank length="8"/>
+  <entry producer="227" in="51" out="59"/>
+  <blank length="4"/>
+  <entry producer="218" in="9" out="16"/>
+  <blank length="5"/>
+  <entry producer="220" in="5" out="21"/>
+  <blank length="6"/>
+  <entry producer="192" in="10" out="16"/>
+  <blank length="6"/>
+  <entry producer="275" in="118" out="122"/>
+  <blank length="3"/>
+  <entry producer="200" in="0" out="6"/>
+  <blank length="5"/>
+  <entry producer="286" in="0" out="2"/>
+  <blank length="6"/>
+  <entry producer="280" in="0" out="2"/>
+  <blank length="1"/>
+  <entry producer="198" in="7" out="11"/>
+  <blank length="8"/>
+  <entry producer="224" in="69" out="72"/>
+  <blank length="3"/>
+  <entry producer="225" in="9" out="11"/>
+  <blank length="3"/>
+  <entry producer="229" in="21" out="45"/>
+  <blank length="21"/>
+  <entry producer="230" in="101" out="134"/>
+  <blank length="269"/>
+  <entry producer="205" in="0" out="15"/>
+  <blank length="7"/>
+  <entry producer="204" in="0" out="20"/>
+  <blank length="18"/>
+  <entry producer="209" in="0" out="58"/>
+  <blank length="32"/>
+  <entry producer="207" in="0" out="27"/>
+  <blank length="27"/>
+  <entry producer="188" in="0" out="99"/>
+  <blank length="52"/>
+  <entry producer="193" in="0" out="116"/>
+  <blank length="63"/>
+  <entry producer="196" in="0" out="93"/>
+  <blank length="376"/>
+  <entry producer="211" in="0" out="78"/>
+  <blank length="85"/>
+  <entry producer="213" in="0" out="124"/>
+  <blank length="79"/>
+  <entry producer="215" in="0" out="178"/>
+  <blank length="29"/>
+  <entry producer="217" in="0" out="61"/>
+  <blank length="1054"/>
+  <entry producer="235" in="0" out="63"/>
+  <blank length="50"/>
+  <entry producer="237" in="0" out="70"/>
+  <blank length="58"/>
+  <entry producer="240" in="0" out="66"/>
+  <blank length="88"/>
+  <entry producer="243" in="0" out="61"/>
+  <blank length="90"/>
+  <entry producer="245" in="0" out="71"/>
+  <blank length="42"/>
+  <entry producer="248" in="0" out="69"/>
+  <blank length="22"/>
+  <entry producer="250" in="0" out="55"/>
+  <blank length="30"/>
+  <entry producer="252" in="0" out="33"/>
+  <blank length="6"/>
+  <entry producer="254" in="0" out="29"/>
+  <blank length="24"/>
+  <entry producer="256" in="0" out="41"/>
+  <blank length="24"/>
+  <entry producer="258" in="0" out="39"/>
+  <blank length="24"/>
+  <entry producer="260" in="0" out="27"/>
+  <blank length="492"/>
+  <entry producer="257" in="0" out="124"/>
+  <blank length="86"/>
+  <entry producer="233" in="0" out="84">
+   <filter id="fade_from_black" out="19">
+    <property name="start">0</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="end">1</property>
+   </filter>
+  </entry>
+  <blank length="48"/>
+  <entry producer="234" in="382" out="515"/>
+ </playlist>
+ <playlist id="playlist0">
+  <property name="kdenlive:track_name">Video 4</property>
+ </playlist>
+ <playlist id="playlist6">
+  <property name="kdenlive:track_name">Video 5</property>
+  <blank length="877"/>
+  <entry producer="208" in="0" out="9"/>
+ </playlist>
+ <playlist id="playlist7">
+  <property name="kdenlive:track_name">Video 6</property>
+ </playlist>
+ <playlist id="playlist8">
+  <property name="kdenlive:track_name">Video 7</property>
+ </playlist>
+ <tractor title="Anonymous Submission" id="maintractor" global_feed="1" in="0" out="5675">
+  <track producer="black_track"/>
+  <track hide="video" producer="playlist1"/>
+  <track hide="video" producer="playlist2"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4"/>
+  <track producer="playlist5"/>
+  <track producer="playlist0"/>
+  <track producer="playlist6"/>
+  <track producer="playlist7"/>
+  <track producer="playlist8"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">7</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition7">
+   <property name="a_track">0</property>
+   <property name="b_track">8</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition8">
+   <property name="a_track">0</property>
+   <property name="b_track">9</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="sum">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition9">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition10">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition11">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition12">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition13">
+   <property name="a_track">0</property>
+   <property name="b_track">7</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition14">
+   <property name="a_track">0</property>
+   <property name="b_track">8</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition15">
+   <property name="a_track">0</property>
+   <property name="b_track">9</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
