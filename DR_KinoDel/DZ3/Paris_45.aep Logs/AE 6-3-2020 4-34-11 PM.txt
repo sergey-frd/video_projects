@@ -1,0 +1,8 @@
+  6/3/2020 4:34:11 PM: Starting composition “DZ4_30 Linked Comp 07”.
+
+  Output To: C:\Git\video_projects\DR_KinoDel\DZ3\DZ4_30 Linked Comp 07_3.avi    6/3/2020 4:34:14 PM: Finished composition “DZ4_30 Linked Comp 07”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 6/3/2020 at 4:34:14 PM
+

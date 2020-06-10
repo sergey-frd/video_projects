@@ -1,0 +1,12 @@
+Template project
+
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+Here's anything that's nonstandard about the template project.
+* Project item and label color is turned on
+* Mercury Playback Engine (Project settings) is set to Open CL
+
+By using this folder template, it's easier to start projects - and extra easy to move/cleanup a project as everything is self contained.
+
+Of course, your mileage may vary and this project and assets are merely a demonstration of the possibilities of templates. 
+

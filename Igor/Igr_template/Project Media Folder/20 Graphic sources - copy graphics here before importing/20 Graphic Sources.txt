@@ -1,0 +1,3 @@
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+Place any graphic sources here such as PNG, JPG, TIFF or other graphic files

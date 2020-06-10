@@ -1,0 +1,8 @@
+  6/5/2020 8:28:38 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\SERGEI\Pictures\Photo\DR_KinoDel\06_EXPORT\Gusar 1.mp3    6/5/2020 8:28:39 PM: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 6/5/2020 at 8:28:39 PM
+

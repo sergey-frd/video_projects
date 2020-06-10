@@ -1,0 +1,8 @@
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+This is an optional folder - by targeting exports here, it's easy to find approval copies and final deliverables.
+
+Common files in here are:
+* Stills for print and web use
+* Approval copies
+* Final Deliverables

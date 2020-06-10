@@ -1,0 +1,4 @@
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+Using this folder is an optional choice (depending on the project) would be to target the scratch files (such as Previews) to this folder)
+

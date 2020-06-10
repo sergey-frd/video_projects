@@ -1,0 +1,8 @@
+  6/5/2020 8:35:07 PM: Starting composition “Gusar_2”.
+
+  Output To: C:\Users\SERGEI\Pictures\Photo\DR_KinoDel\06_EXPORT\Gusar_2.avi      Render stopped by user.  After Effects warning: Failed to write XMP metadata  6/5/2020 8:35:59 PM: Finished composition “Gusar_2”.
+
+
+  Total Time Elapsed: 46 Seconds
+Log closed on 6/5/2020 at 8:35:59 PM
+

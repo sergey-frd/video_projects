@@ -1,0 +1,7 @@
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+This folder is meant for the copy of media that goes with the project.
+
+The general rule is to copy the entire folder structure - never just grab individual files.
+
+Place your copy here prior to importing or target the ingest feature to place media here.

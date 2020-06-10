@@ -1,0 +1,3 @@
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+Any elements common to a series of projects - such as logos or animations that get used in  every project for branding, etc.

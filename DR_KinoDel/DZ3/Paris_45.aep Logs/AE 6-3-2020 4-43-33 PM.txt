@@ -1,0 +1,8 @@
+  6/3/2020 4:43:33 PM: Starting composition “DZ4_30 Linked Comp 09”.
+
+  Output To: C:\Users\SERGEI\Pictures\Photo\DR_KinoDel\06_EXPORT\DZ4_30 Linked Comp 09.avi    6/3/2020 4:43:37 PM: Finished composition “DZ4_30 Linked Comp 09”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 6/3/2020 at 4:43:37 PM
+

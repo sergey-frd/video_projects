@@ -1,0 +1,8 @@
+  6/5/2020 8:40:49 PM: Starting composition “Gusar_3”.
+
+  Output To: C:\Users\SERGEI\Pictures\Photo\DR_KinoDel\06_EXPORT\Gusar_3.avi    6/5/2020 8:41:15 PM: Finished composition “Gusar_3”.
+
+
+  Total Time Elapsed: 25 Seconds
+Log closed on 6/5/2020 at 8:41:15 PM
+
