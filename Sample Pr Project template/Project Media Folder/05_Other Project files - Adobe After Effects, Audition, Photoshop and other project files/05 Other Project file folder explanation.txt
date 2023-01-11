@@ -1,0 +1,11 @@
+This folder mirrors the project with the Adobe Premiere Pro Project Template.
+
+This folder is meant for Other project files.
+
+For example:
+* Adobe After Effects projects
+* Audition Projects
+* Photoshop Projects
+* Cinema 4D projects
+
+Anything that contributes to the master project.
